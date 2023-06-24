@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022198678714",
+    "firebase_url": "https://aisululazmi-29f7e-default-rtdb.firebaseio.com",
+    "project_id": "aisululazmi-29f7e",
+    "storage_bucket": "aisululazmi-29f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022198678714:android:d6410adddcf036255f2e83",
+        "android_client_info": {
+          "package_name": "com.example.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022198678714-9fk8lk6i5ro7rugh7mhlbeeo0r0fhi5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9TGVtjqpjL5RRGezq7XftGo7KWgFCeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022198678714-9fk8lk6i5ro7rugh7mhlbeeo0r0fhi5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="default_web_client_id" translatable="false">11022198678714-9fk8lk6i5ro7rugh7mhlbeeo0r0fhi5p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://aisululazmi-29f7e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1022198678714</string>
+    <string name="google_api_key" translatable="false">AIzaSyDQ9TGVtjqpjL5RRGezq7XftGo7KWgFCeM</string>
+    <string name="google_app_id" translatable="false">1:1022198678714:android:d6410adddcf036255f2e83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQ9TGVtjqpjL5RRGezq7XftGo7KWgFCeM</string>
+    <string name="google_storage_bucket" translatable="false">aisululazmi-29f7e.appspot.com</string>
+    <string name="project_id" translatable="false">aisululazmi-29f7e</string>
+</resources>
