@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="12dp"
         android:text="Insert"
+        android:onClick="Insert"
         android:backgroundTint="#0095F6"
         android:textColor="@color/white"
         android:layout_alignParentTop="true"
